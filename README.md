@@ -30,6 +30,9 @@ The company, Amazing Chocaolate, manufactures expensive Chocolate products that 
 * I was provided a CSV sql file which i uploaded direct to MySql server.
 * Then I used that same file for powerBi Analyze.
 * Cleaned the data using Power Query and merging necessary tables to overcome ambuguity.
+
+  ![](Github/Relationshipproc.PNG)
+  
 * Created relationships; data modeling between the tables via the Diagram View of Power Pivot using many-to-one and one-to-many relationships.
 * Wrote few DAX to answer questions 
 * Designed my dashboard with the reports and most important metrics.
