@@ -9,9 +9,12 @@ The company, Amazing Chocaolate, manufactures expensive Chocolate products that 
 ## Datasets Overview
 
 1. Github: This contains all the images used in this project
+
 2. Read.me: This is the introductry part of the project. it provides all the information of the project.
-3.awesome.chocolate-data.sql: This is the raw data code for the project. This should be imported directly to sql server.
-4.Chocolate sql quaery: It contains all the project SQL queries. It provides to all the business questions.
+
+3. Awesome.chocolate-data.sql: This is the raw data code for the project. This should be imported directly to sql server.
+
+4. Chocolate sql quaery: It contains all the project SQL queries. It provides to all the business questions.
  
 ## To gather insights on how the company is performing as regards to sales and market share, I was directed to provide answers to the following questions;
 
