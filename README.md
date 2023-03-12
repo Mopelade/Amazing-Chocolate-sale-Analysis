@@ -52,7 +52,6 @@ Here is a PowerBi Dashboard report that i buildt to further visualize the insigh
  * Canada has the highest number of customers, over 215k.  at a rate of 17.42%.
  * The breakdown Analysis, the company experienced  sale decrease as their revenue dropped drastically by the year. The revenue genrated Jan was $82,238,111 an it went    down gradually to $2,940,049.
  
- ![](Github/Thanks.jpg)
  
 
 
