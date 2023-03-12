@@ -36,3 +36,7 @@ The company, Amazing Chocaolate, manufactures expensive Chocolate products that 
 
 ## Dashboard Report
 Here is a PowerBi Dashboard report that i buildt to further visualize the insights and trends derived from this analysis.
+
+ ![](Github/Amazingchocolata.PNG)
+
+
