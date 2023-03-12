@@ -8,11 +8,11 @@ The company, Amazing Chocaolate, manufactures expensive Chocolate products that 
 
 ## Datasets Overview
 
-1 Location: This dataset contains the the sales data of six different countries which include, Australia, Canade, India, New zealand, UK and USA.
-
-2. Salesperson: This contains salespersons of the company information which includes The region they are managing, team they belong to, Their names and ID.
-3. Products: This dataset containd information abount the product they sell. 
-
+1. Github: This contains all the images used in this project
+2. Read.me: This is the introductry part of the project. it provides all the information of the project.
+3.awesome.chocolate-data.sql: This is the raw data code for the project. This should be imported directly to sql server.
+4.Chocolate sql quaery: It contains all the project SQL queries. It provides to all the business questions.
+ 
 ## To gather insights on how the company is performing as regards to sales and market share, I was directed to provide answers to the following questions;
 
 1. Provide details of shipments (sales) where amounts are > 2,000 and Boxes are < 100
