@@ -33,7 +33,7 @@ The company, Amazing Chocaolate, manufactures expensive Chocolate products that 
 
   ![](Github/Relationshipproc.PNG)
   
-* Created relationships; data modeling between the tables via the Diagram View of Power Pivot using many-to-one and one-to-many relationships.
+* Created relationships; data modeling 
 * Wrote few DAX to answer questions 
 * Designed my dashboard with the reports and most important metrics.
 
@@ -41,5 +41,7 @@ The company, Amazing Chocaolate, manufactures expensive Chocolate products that 
 Here is a PowerBi Dashboard report that i buildt to further visualize the insights and trends derived from this analysis.
 
  ![](Github/Amazingchocolata.PNG)
+ 
+ ## Insights
 
 
