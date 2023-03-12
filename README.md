@@ -1,4 +1,7 @@
 # Amazing-Chocolate-sale-Analysis
+
+![](Github/Chocolate.jpg)
+
 In this project, I analyzed and explored dataset with SQL using Mysql Server And PowerBi. I wrangled the data to find insights and patterns like which product sold the most and what date.
 As the Data Analyst, I was directed by the CMO of Amazing Chocolate company, a fictitious manufacturing company to analyze the sales  data of the company . He wants to keep an eye on the company’s Internal performance 
 The company, Amazing Chocaolate, manufactures expensive Chocolate products that could be eaten by adults and childeren and it sells them directly to consumers nationwide as well as several other countries. 
